@@ -15,7 +15,7 @@ This project explores a hybrid deep learning pipeline for classifying dermoscopi
 - [Installation and Requirements](#installation-and-requirements)
 - [Future Work](#future-work)
 - [Acknowledgments](#acknowledgments)
-- [Authors](#authors)
+
 
 ---
 
