@@ -13,7 +13,6 @@ This project explores a hybrid deep learning pipeline for classifying dermoscopi
 - [Results](#results)
 - [Sustainable Development Goals (SDG) Impact](#sustainable-development-goals-sdg-impact)
 - [Installation and Requirements](#installation-and-requirements)
-- [Future Work](#future-work)
 - [Acknowledgments](#acknowledgments)
 
 
@@ -124,12 +123,6 @@ pip install notebook ipywidgets
 ```
 
 ---
-
-## Future Work
-
-- Fine-tune DINO and MiniLM jointly for more robust cross-modal understanding
-- Expand text-prompt library to include metadata (e.g., location, patient history)
-- Integrate contrastive loss or triplet loss for better alignment between modalities
 
 ---
 
